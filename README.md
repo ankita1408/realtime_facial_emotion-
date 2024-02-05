@@ -38,5 +38,5 @@ The project uses the Facial Emotion Detection (FER) dataset compiled in 2013, av
 The trained face-emotion detection model achieves high accuracy in detecting and classifying various emotions from facial expressions, demonstrating the effectiveness of deep learning algorithms in emotion analysis.
 
 By following this guide, you can set up and utilize a real-time emotion detection system for various applications in human-computer interaction, healthcare, marketing, and entertainment.
-![Happy]("C:\Users\ankit\Desktop\realtimeprojecttask1\Screenshot 2024-02-06 020521.png")
-![Angry]("C:\Users\ankit\Desktop\realtimeprojecttask1\Screenshot 2024-02-06 021125.png")
+![Happy](https://github.com/ankita1408/realtime_facial_emotion-/blob/main/Screenshot%202024-02-06%20021125.png)
+![Angry](https://github.com/ankita1408/realtime_facial_emotion-/blob/main/Screenshot%202024-02-06%20020521.png)
